@@ -1234,3 +1234,163 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.06-19.05.17:251][719]LogFileHelpers: Saving map 'MainMenu' took 0.070
 [2021.05.06-19.05.17:262][719]AssetCheck: New page: Asset Save: MainMenu
 [2021.05.06-19.05.17:262][719]LogContentValidation: Display: Validating World /Game/DESIGN/MAPS/MainMenu/MainMenu.MainMenu
+[2021.05.06-19.19.19:403][940]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.06-19.19.19:416][940]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.06-19.19.19:416][940]PIE: New page: PIE session: MainMenu (6 May 2021, 21:19:19)
+[2021.05.06-19.19.19:436][940]LogPlayLevel: Creating play world package: /Game/DESIGN/MAPS/MainMenu/UEDPIE_0_MainMenu
+[2021.05.06-19.19.19:443][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007006s)
+[2021.05.06-19.19.19:444][940]LogAIModule: Creating AISystem for world MainMenu
+[2021.05.06-19.19.19:444][940]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001BA146FE200), frame # 60940
+[2021.05.06-19.19.19:444][940]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001BA6E72E0C0), frame # 60940
+[2021.05.06-19.19.19:444][940]LogPlayLevel: PIE: World Init took: (0.001048s)
+[2021.05.06-19.19.19:445][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DESIGN/MAPS/MainMenu/MainMenu.MainMenu to /Game/DESIGN/MAPS/MainMenu/UEDPIE_0_MainMenu.MainMenu (0.008265s)
+[2021.05.06-19.19.19:464][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.05.06-19.19.19:467][940]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.06-19.19.19:467][940]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.06-19.19.19:467][940]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.06-19.19.19:467][940]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.06-19.19.19:467][940]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.06-19.19.19:467][940]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.06-19.19.19:467][940]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.06-19.19.19:467][940]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.06-19.19.19:468][940]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.06-19.19.19:468][940]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.06-19.19.19:474][940]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.06-19.19.19:474][940]LogAudioMixer: Display: 1: FrontRight
+[2021.05.06-19.19.19:475][940]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.06-19.19.19:475][940]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.06-19.19.19:475][940]LogAudioMixer: Display: 4: BackLeft
+[2021.05.06-19.19.19:475][940]LogAudioMixer: Display: 5: BackRight
+[2021.05.06-19.19.19:475][940]LogAudioMixer: Display: 6: SideLeft
+[2021.05.06-19.19.19:475][940]LogAudioMixer: Display: 7: SideRight
+[2021.05.06-19.19.19:534][940]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.05.06-19.19.19:534][940]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.06-19.19.19:534][940]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.06-19.19.19:534][940]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.06-19.19.19:535][940]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.06-19.19.19:548][940]LogInit: FAudioDevice initialized.
+[2021.05.06-19.19.19:555][940]LogLoad: Game class is 'MainMenuGameModeVersion2_C'
+[2021.05.06-19.19.19:557][940]LogWorld: Bringing World /Game/DESIGN/MAPS/MainMenu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.05.06-20.19.19
+[2021.05.06-19.19.19:557][940]LogWorld: Bringing up level for play took: 0.001580
+[2021.05.06-19.19.19:558][940]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.05.06-19.19.19:565][940]PIE: Server logged in
+[2021.05.06-19.19.19:566][940]PIE: Play in editor total start time 0.15 seconds.
+[2021.05.06-19.19.22:558][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.06-19.19.22:558][289]LogWorld: BeginTearingDown for /Game/DESIGN/MAPS/MainMenu/UEDPIE_0_MainMenu
+[2021.05.06-19.19.22:558][289]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.05.06-19.19.22:559][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.06-19.19.22:567][289]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.06-19.19.22:570][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.06-19.19.22:588][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.06-19.19.22:607][289]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001BA6E72E0C0), frame # 61289
+[2021.05.06-19.19.22:607][289]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001BA146FE200), frame # 61289
+[2021.05.06-19.19.22:609][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.05.06-19.19.22:643][290]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.05.06-20.20.16:035][ 54]LogUObjectHash: Compacting FUObjectHashTables data took  11.16ms
+[2021.05.06-20.20.16:237][ 54]LogSavePackage: Moving '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/MainMenu_Auto1787B58F04F31A1043B11689BB883EBE9.tmp' to '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/Autosaves/Game/DESIGN/MAPS/MainMenu/MainMenu_Auto1.umap'
+[2021.05.06-20.20.16:239][ 54]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/DESIGN/MAPS/MainMenu/MainMenu' took 0.670
+[2021.05.06-20.20.16:239][ 54]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.670
+[2021.05.06-20.23.39:744][267]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CardboardTower)
+[2021.05.06-20.23.41:182][376]Cmd: SELECT NONE
+[2021.05.06-20.23.41:319][390]Cmd: SELECT NONE
+[2021.05.06-20.23.42:792][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CardboardTower)
+[2021.05.06-20.23.47:342][972]Cmd: TRANSACTION UNDO
+[2021.05.06-20.23.47:342][972]LogEditorTransaction: Undo Move Actors
+[2021.05.06-20.31.09:337][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.05.06-20.31.09:433][530]LogSavePackage: Moving '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/MainMenu_Auto242040D66484536D04B5BC6B839739871.tmp' to '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/Autosaves/Game/DESIGN/MAPS/MainMenu/MainMenu_Auto2.umap'
+[2021.05.06-20.31.09:434][530]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/DESIGN/MAPS/MainMenu/MainMenu' took 0.182
+[2021.05.06-20.31.09:435][530]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.182
+[2021.05.06-20.37.23:059][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.05.06-20.37.23:096][452]LogSavePackage: Moving '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/MainMenu540DE3F64E00759C62D9419856887CCC.tmp' to '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/DESIGN/MAPS/MainMenu/MainMenu.umap'
+[2021.05.06-20.37.23:145][452]AssetCheck: New page: Asset Save: MainMenu
+[2021.05.06-20.37.23:145][452]LogContentValidation: Display: Validating World /Game/DESIGN/MAPS/MainMenu/MainMenu.MainMenu
+[2021.05.06-20.40.45:017][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.05.06-20.40.45:052][497]LogSavePackage: Moving '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/MainMenu8BB020084D0CC962BF51548BFA80352A.tmp' to '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/DESIGN/MAPS/MainMenu/MainMenu.umap'
+[2021.05.06-20.40.45:090][497]AssetCheck: New page: Asset Save: MainMenu
+[2021.05.06-20.40.45:090][497]LogContentValidation: Display: Validating World /Game/DESIGN/MAPS/MainMenu/MainMenu.MainMenu
+[2021.05.06-20.40.53:871][483]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.06-20.40.53:884][483]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.06-20.40.53:884][483]PIE: New page: PIE session: MainMenu (6 May 2021, 22:40:53)
+[2021.05.06-20.40.53:919][483]LogPlayLevel: Creating play world package: /Game/DESIGN/MAPS/MainMenu/UEDPIE_0_MainMenu
+[2021.05.06-20.40.53:930][483]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010565s)
+[2021.05.06-20.40.53:932][483]LogAIModule: Creating AISystem for world MainMenu
+[2021.05.06-20.40.53:932][483]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001BA31CFE400), frame # 141483
+[2021.05.06-20.40.53:932][483]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001BA6E72E480), frame # 141483
+[2021.05.06-20.40.53:933][483]LogPlayLevel: PIE: World Init took: (0.002649s)
+[2021.05.06-20.40.53:933][483]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DESIGN/MAPS/MainMenu/MainMenu.MainMenu to /Game/DESIGN/MAPS/MainMenu/UEDPIE_0_MainMenu.MainMenu (0.013572s)
+[2021.05.06-20.40.53:952][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.05.06-20.40.53:955][483]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.06-20.40.53:955][483]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.06-20.40.53:955][483]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.06-20.40.53:955][483]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.06-20.40.53:955][483]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.06-20.40.53:955][483]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.06-20.40.53:955][483]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.06-20.40.53:955][483]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.06-20.40.53:956][483]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.06-20.40.53:956][483]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.06-20.40.53:971][483]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.06-20.40.53:971][483]LogAudioMixer: Display: 1: FrontRight
+[2021.05.06-20.40.53:971][483]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.06-20.40.53:971][483]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.06-20.40.53:971][483]LogAudioMixer: Display: 4: BackLeft
+[2021.05.06-20.40.53:971][483]LogAudioMixer: Display: 5: BackRight
+[2021.05.06-20.40.53:972][483]LogAudioMixer: Display: 6: SideLeft
+[2021.05.06-20.40.53:972][483]LogAudioMixer: Display: 7: SideRight
+[2021.05.06-20.40.54:036][483]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.05.06-20.40.54:036][483]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.06-20.40.54:036][483]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.06-20.40.54:037][483]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.06-20.40.54:038][483]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.06-20.40.54:060][483]LogInit: FAudioDevice initialized.
+[2021.05.06-20.40.54:076][483]LogLoad: Game class is 'MainMenuGameModeVersion2_C'
+[2021.05.06-20.40.54:079][483]LogWorld: Bringing World /Game/DESIGN/MAPS/MainMenu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.05.06-21.40.54
+[2021.05.06-20.40.54:079][483]LogWorld: Bringing up level for play took: 0.002172
+[2021.05.06-20.40.54:080][483]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.05.06-20.40.54:100][483]PIE: Server logged in
+[2021.05.06-20.40.54:101][483]PIE: Play in editor total start time 0.218 seconds.
+[2021.05.06-20.40.55:049][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.06-20.40.55:049][584]LogWorld: BeginTearingDown for /Game/DESIGN/MAPS/MainMenu/UEDPIE_0_MainMenu
+[2021.05.06-20.40.55:050][584]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.05.06-20.40.55:050][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.06-20.40.55:058][584]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.06-20.40.55:061][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.06-20.40.55:080][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.06-20.40.55:106][584]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001BA6E72E480), frame # 141584
+[2021.05.06-20.40.55:106][584]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001BA31CFE400), frame # 141584
+[2021.05.06-20.40.55:122][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.05.06-20.40.55:155][585]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.05.06-20.40.57:889][850]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/DESIGN/MAPS/MainMenu/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2021.05.06-20.41.03:664][410]BlueprintLog: New page: Compile MainMenu
+[2021.05.06-20.41.03:690][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.05.06-20.41.03:732][410]LogSlate: Took 0.020163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.06-20.41.06:097][680]LogSlate: Window 'MainMenu' being destroyed
+[2021.05.06-20.41.10:571][189]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.05.06-20.41.10:571][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.06-20.41.12:096][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.05.06-20.41.13:137][356]LogSlate: Window 'Save Content' being destroyed
+[2021.05.06-20.41.13:193][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.05.06-20.41.13:230][356]LogSavePackage: Moving '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/MainMenuAF7B24A5439DAD778F8A9FA65173475F.tmp' to '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/DESIGN/MAPS/MainMenu/MainMenu.umap'
+[2021.05.06-20.41.13:253][356]LogFileHelpers: Saving map 'MainMenu' took 0.080
+[2021.05.06-20.41.13:265][356]AssetCheck: New page: Asset Save: MainMenu
+[2021.05.06-20.41.13:265][356]LogContentValidation: Display: Validating World /Game/DESIGN/MAPS/MainMenu/MainMenu.MainMenu
+[2021.05.06-20.43.20:220][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.05.06-20.43.20:259][384]LogSavePackage: Moving '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/MainMenuC876772D4B7172577B20FE958676C18E.tmp' to '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/DESIGN/MAPS/MainMenu/MainMenu.umap'
+[2021.05.06-20.43.20:292][384]AssetCheck: New page: Asset Save: MainMenu
+[2021.05.06-20.43.20:292][384]LogContentValidation: Display: Validating World /Game/DESIGN/MAPS/MainMenu/MainMenu.MainMenu
+[2021.05.06-20.43.28:607][262]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TECH/GAMEMODES/MainMenuGameModeVersion2.MainMenuGameModeVersion2
+[2021.05.06-20.47.16:418][ 83]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TECH/BLUEPRINTS/Cameras/GameCam.GameCam
+[2021.05.06-20.47.38:381][629]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.05.06-20.47.38:381][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.06-20.47.39:477][750]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.06-20.47.39:477][750]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.05.06-20.47.39:477][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.06-20.47.46:954][432]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.05.06-20.47.46:987][432]LogSavePackage: Moving '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/MainMenu813BF1F8474A8B5513AD349F8D3FE02F.tmp' to '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/DESIGN/MAPS/MainMenu/MainMenu.umap'
+[2021.05.06-20.47.47:020][432]AssetCheck: New page: Asset Save: MainMenu
+[2021.05.06-20.47.47:020][432]LogContentValidation: Display: Validating World /Game/DESIGN/MAPS/MainMenu/MainMenu.MainMenu
+[2021.05.06-20.48.47:316][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.05.06-20.48.47:352][306]LogSavePackage: Moving '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/MainMenuB210B94044812DBB4CA359A5ED7AEE60.tmp' to '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/DESIGN/MAPS/MainMenu/MainMenu.umap'
+[2021.05.06-20.48.47:386][306]AssetCheck: New page: Asset Save: MainMenu
+[2021.05.06-20.48.47:386][306]LogContentValidation: Display: Validating World /Game/DESIGN/MAPS/MainMenu/MainMenu.MainMenu
+[2021.05.06-21.04.28:750][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
