@@ -1394,3 +1394,35 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.06-20.48.47:386][306]AssetCheck: New page: Asset Save: MainMenu
 [2021.05.06-20.48.47:386][306]LogContentValidation: Display: Validating World /Game/DESIGN/MAPS/MainMenu/MainMenu.MainMenu
 [2021.05.06-21.04.28:750][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.05.06-21.07.52:891][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.05.06-21.07.52:903][296]LogSavePackage: Moving '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/Level_1309107A342F3F1B89B9F57A114712FFB.tmp' to '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/DESIGN/MAPS/Levels/Level_1.umap'
+[2021.05.06-21.07.52:907][296]LogFileHelpers: Saving map 'Level_1' took 0.038
+[2021.05.06-21.07.53:119][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.05.06-21.07.53:146][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.05.06-21.07.53:170][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.05.06-21.07.53:283][296]AssetCheck: New page: Asset Save: Level_1
+[2021.05.06-21.07.53:283][296]LogContentValidation: Display: Validating World /Game/DESIGN/MAPS/Levels/Level_1.Level_1
+[2021.05.06-21.07.55:802][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.05.06-21.07.55:849][576]LogSavePackage: Moving '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/Level_224B1DFB74F321A7A3CC13BADCEF37108.tmp' to '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/DESIGN/MAPS/Levels/Level_2.umap'
+[2021.05.06-21.07.55:878][576]LogFileHelpers: Saving map 'Level_2' took 0.140
+[2021.05.06-21.07.56:105][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.05.06-21.07.56:133][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.05.06-21.07.56:152][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.05.06-21.07.56:235][576]AssetCheck: New page: Asset Save: Level_2
+[2021.05.06-21.07.56:235][576]LogContentValidation: Display: Validating World /Game/DESIGN/MAPS/Levels/Level_2.Level_2
+[2021.05.06-21.07.58:413][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.05.06-21.07.58:423][826]LogSavePackage: Moving '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/Level_30F4F844947D1BF328DA14793596D0F8A.tmp' to '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/DESIGN/MAPS/Levels/Level_3.umap'
+[2021.05.06-21.07.58:427][826]LogFileHelpers: Saving map 'Level_3' took 0.036
+[2021.05.06-21.07.58:608][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.05.06-21.07.58:634][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.05.06-21.07.58:658][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.05.06-21.07.58:733][826]AssetCheck: New page: Asset Save: Level_3
+[2021.05.06-21.07.58:733][826]LogContentValidation: Display: Validating World /Game/DESIGN/MAPS/Levels/Level_3.Level_3
+[2021.05.06-21.08.02:282][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.05.06-21.08.02:292][241]LogSavePackage: Moving '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/Level_430032F6A4A19F1E0E4E705A72F9770F2.tmp' to '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/DESIGN/MAPS/Levels/Level_4.umap'
+[2021.05.06-21.08.02:297][241]LogFileHelpers: Saving map 'Level_4' took 0.036
+[2021.05.06-21.08.02:478][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.05.06-21.08.02:501][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.05.06-21.08.02:528][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.05.06-21.08.02:604][241]AssetCheck: New page: Asset Save: Level_4
+[2021.05.06-21.08.02:604][241]LogContentValidation: Display: Validating World /Game/DESIGN/MAPS/Levels/Level_4.Level_4
