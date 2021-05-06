@@ -1426,3 +1426,909 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.06-21.08.02:528][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
 [2021.05.06-21.08.02:604][241]AssetCheck: New page: Asset Save: Level_4
 [2021.05.06-21.08.02:604][241]LogContentValidation: Display: Validating World /Game/DESIGN/MAPS/Levels/Level_4.Level_4
+[2021.05.06-21.12.04:591][109]LogSlate: Window 'Reference Viewer' being destroyed
+[2021.05.06-21.12.04:597][109]LogSlate: Window 'Reference Viewer' being destroyed
+[2021.05.06-21.12.10:484][787]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.10:485][787]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.10:485][787]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube_Chamfer': Can't find file.
+[2021.05.06-21.12.10:485][787]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube_Chamfer': Can't find file.
+[2021.05.06-21.12.10:485][787]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/TemplateFloor': Can't find file.
+[2021.05.06-21.12.10:485][787]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/TemplateFloor': Can't find file.
+[2021.05.06-21.12.10:489][787]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.10:490][787]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.10:490][787]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube_Chamfer': Can't find file.
+[2021.05.06-21.12.10:490][787]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube_Chamfer': Can't find file.
+[2021.05.06-21.12.10:490][787]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/TemplateFloor': Can't find file.
+[2021.05.06-21.12.10:490][787]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/TemplateFloor': Can't find file.
+[2021.05.06-21.12.10:491][787]LogLinker: Warning: Failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.10:492][787]LogLinker: Warning: Failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.10:492][787]LogLinker: Warning: Failed to load '/Game/TECH/Geometry/Meshes/1M_Cube_Chamfer': Can't find file.
+[2021.05.06-21.12.10:492][787]LogLinker: Warning: Failed to load '/Game/TECH/Geometry/Meshes/1M_Cube_Chamfer': Can't find file.
+[2021.05.06-21.12.10:492][787]LogLinker: Warning: Failed to load '/Game/TECH/Geometry/Meshes/TemplateFloor': Can't find file.
+[2021.05.06-21.12.10:492][787]LogLinker: Warning: Failed to load '/Game/TECH/Geometry/Meshes/TemplateFloor': Can't find file.
+[2021.05.06-21.12.10:493][787]LogLinker: Warning: Failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.10:493][787]LogLinker: Warning: Failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.10:493][787]LogLinker: Warning: Failed to load '/Game/TECH/Geometry/Meshes/1M_Cube_Chamfer': Can't find file.
+[2021.05.06-21.12.10:493][787]LogLinker: Warning: Failed to load '/Game/TECH/Geometry/Meshes/1M_Cube_Chamfer': Can't find file.
+[2021.05.06-21.12.10:493][787]LogLinker: Warning: Failed to load '/Game/TECH/Geometry/Meshes/TemplateFloor': Can't find file.
+[2021.05.06-21.12.10:494][787]LogLinker: Warning: Failed to load '/Game/TECH/Geometry/Meshes/TemplateFloor': Can't find file.
+[2021.05.06-21.12.10:502][787]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube_Chamfer': Can't find file.
+[2021.05.06-21.12.10:502][787]LoadErrors: Failed to load /Game/TECH/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer Referenced by CubeMesh_5
+[2021.05.06-21.12.10:502][787]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube_Chamfer': Can't find file.
+[2021.05.06-21.12.10:503][787]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/TemplateFloor': Can't find file.
+[2021.05.06-21.12.10:503][787]LoadErrors: Failed to load /Game/TECH/Geometry/Meshes/TemplateFloor.TemplateFloor Referenced by Floor_1
+[2021.05.06-21.12.10:503][787]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/TemplateFloor': Can't find file.
+[2021.05.06-21.12.10:504][787]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.10:504][787]LoadErrors: Failed to load /Game/TECH/Geometry/Meshes/1M_Cube.1M_Cube Referenced by Wall10
+[2021.05.06-21.12.10:504][787]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.10:504][787]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.10:504][787]LoadErrors: Failed to load /Game/TECH/Geometry/Meshes/1M_Cube.1M_Cube Referenced by Wall11
+[2021.05.06-21.12.10:504][787]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.10:505][787]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.10:505][787]LoadErrors: Failed to load /Game/TECH/Geometry/Meshes/1M_Cube.1M_Cube Referenced by Wall7_4
+[2021.05.06-21.12.10:505][787]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.10:505][787]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.10:505][787]LoadErrors: Failed to load /Game/TECH/Geometry/Meshes/1M_Cube.1M_Cube Referenced by Wall9
+[2021.05.06-21.12.10:505][787]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.10:511][787]LogStaticMesh: Building static mesh Linear_Stair_StaticMesh...
+[2021.05.06-21.12.10:516][787]LogStaticMesh: Built static mesh [0.01s] /Game/TECH/ThirdPerson/Meshes/Linear_Stair_StaticMesh.Linear_Stair_StaticMesh
+[2021.05.06-21.12.10:535][787]LogStaticMesh: Building static mesh Bump_StaticMesh...
+[2021.05.06-21.12.10:539][787]LogStaticMesh: Built static mesh [0.00s] /Game/TECH/ThirdPerson/Meshes/Bump_StaticMesh.Bump_StaticMesh
+[2021.05.06-21.12.10:540][787]LogStaticMesh: Building static mesh Ramp_StaticMesh...
+[2021.05.06-21.12.10:548][787]LogStaticMesh: Built static mesh [0.01s] /Game/TECH/ThirdPerson/Meshes/Ramp_StaticMesh.Ramp_StaticMesh
+[2021.05.06-21.12.10:550][787]LogStaticMesh: Building static mesh LeftArm_StaticMesh...
+[2021.05.06-21.12.10:553][787]LogStaticMesh: Built static mesh [0.00s] /Game/TECH/ThirdPerson/Meshes/LeftArm_StaticMesh.LeftArm_StaticMesh
+[2021.05.06-21.12.10:554][787]LogStaticMesh: Building static mesh RightArm_StaticMesh...
+[2021.05.06-21.12.10:558][787]LogStaticMesh: Built static mesh [0.00s] /Game/TECH/ThirdPerson/Meshes/RightArm_StaticMesh.RightArm_StaticMesh
+[2021.05.06-21.12.10:593][787]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.05.06-21.12.10:612][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.05.06-21.12.10:628][787]Cmd: MAP LOAD FILE="../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.06-21.12.10:635][787]LightingResults: New page: Lighting Build
+[2021.05.06-21.12.10:635][787]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2021.05.06-21.12.10:637][787]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.05.06-21.12.10:637][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.06-21.12.10:637][787]MapCheck: New page: Map Check
+[2021.05.06-21.12.10:637][787]LightingResults: New page: Lighting Build
+[2021.05.06-21.12.10:660][787]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001BA8E230E00), frame # 184787
+[2021.05.06-21.12.10:660][787]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001BA7F8DF000), frame # 184787
+[2021.05.06-21.12.10:662][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.05.06-21.12.10:683][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.05.06-21.12.10:705][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.05.06-21.12.10:726][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.05.06-21.12.10:746][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.05.06-21.12.10:764][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.05.06-21.12.10:893][787]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.06-21.12.10:894][787]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.06-21.12.10:894][787]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001BA25C9B000), frame # 184787
+[2021.05.06-21.12.10:894][787]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001BA14E81BC0), frame # 184787
+[2021.05.06-21.12.10:916][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.05.06-21.12.10:937][787]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.06-21.12.10:938][787]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.152ms to complete.
+[2021.05.06-21.12.10:938][787]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.310
+[2021.05.06-21.12.20:934][949]LogAssetEditorSubsystem: Opening Asset editor for World /Game/DESIGN/MAPS/MainMenu/MainMenu.MainMenu
+[2021.05.06-21.12.20:954][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.05.06-21.12.20:958][949]Cmd: MAP LOAD FILE="../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/DESIGN/MAPS/MainMenu/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.06-21.12.20:958][949]LightingResults: New page: Lighting Build
+[2021.05.06-21.12.20:958][949]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.05.06-21.12.20:989][949]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.06-21.12.20:990][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.06-21.12.20:990][949]MapCheck: New page: Map Check
+[2021.05.06-21.12.20:990][949]LightingResults: New page: Lighting Build
+[2021.05.06-21.12.21:008][949]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001BA14E81BC0), frame # 185949
+[2021.05.06-21.12.21:008][949]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001BA25C9B000), frame # 185949
+[2021.05.06-21.12.21:010][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.05.06-21.12.21:203][949]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.06-21.12.21:203][949]LogAIModule: Creating AISystem for world MainMenu
+[2021.05.06-21.12.21:203][949]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001BA250FFE00), frame # 185949
+[2021.05.06-21.12.21:203][949]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001BA8E231580), frame # 185949
+[2021.05.06-21.12.21:234][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.05.06-21.12.21:255][949]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.06-21.12.21:255][949]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.155ms to complete.
+[2021.05.06-21.12.21:255][949]LogFileHelpers: Loading map 'MainMenu' took 0.298
+[2021.05.06-21.12.28:491][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.05.06-21.12.29:640][784]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.06-21.12.29:759][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.05.06-21.12.29:787][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.05.06-21.12.29:807][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.05.06-21.12.34:782][371]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.06-21.12.34:786][371]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.34:786][371]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.34:786][371]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube_Chamfer': Can't find file.
+[2021.05.06-21.12.34:786][371]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube_Chamfer': Can't find file.
+[2021.05.06-21.12.34:786][371]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/TemplateFloor': Can't find file.
+[2021.05.06-21.12.34:787][371]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/TemplateFloor': Can't find file.
+[2021.05.06-21.12.34:787][371]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.34:788][371]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.34:788][371]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube_Chamfer': Can't find file.
+[2021.05.06-21.12.34:788][371]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube_Chamfer': Can't find file.
+[2021.05.06-21.12.34:788][371]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/TemplateFloor': Can't find file.
+[2021.05.06-21.12.34:788][371]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/TemplateFloor': Can't find file.
+[2021.05.06-21.12.34:790][371]LogLinker: Warning: Failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.34:790][371]LogLinker: Warning: Failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.34:790][371]LogLinker: Warning: Failed to load '/Game/TECH/Geometry/Meshes/1M_Cube_Chamfer': Can't find file.
+[2021.05.06-21.12.34:790][371]LogLinker: Warning: Failed to load '/Game/TECH/Geometry/Meshes/1M_Cube_Chamfer': Can't find file.
+[2021.05.06-21.12.34:790][371]LogLinker: Warning: Failed to load '/Game/TECH/Geometry/Meshes/TemplateFloor': Can't find file.
+[2021.05.06-21.12.34:791][371]LogLinker: Warning: Failed to load '/Game/TECH/Geometry/Meshes/TemplateFloor': Can't find file.
+[2021.05.06-21.12.34:791][371]LogLinker: Warning: Failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.34:791][371]LogLinker: Warning: Failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.34:791][371]LogLinker: Warning: Failed to load '/Game/TECH/Geometry/Meshes/1M_Cube_Chamfer': Can't find file.
+[2021.05.06-21.12.34:791][371]LogLinker: Warning: Failed to load '/Game/TECH/Geometry/Meshes/1M_Cube_Chamfer': Can't find file.
+[2021.05.06-21.12.34:791][371]LogLinker: Warning: Failed to load '/Game/TECH/Geometry/Meshes/TemplateFloor': Can't find file.
+[2021.05.06-21.12.34:792][371]LogLinker: Warning: Failed to load '/Game/TECH/Geometry/Meshes/TemplateFloor': Can't find file.
+[2021.05.06-21.12.34:796][371]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube_Chamfer': Can't find file.
+[2021.05.06-21.12.34:796][371]LoadErrors: Failed to load /Game/TECH/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer Referenced by CubeMesh_5
+[2021.05.06-21.12.34:796][371]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube_Chamfer': Can't find file.
+[2021.05.06-21.12.34:796][371]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/TemplateFloor': Can't find file.
+[2021.05.06-21.12.34:796][371]LoadErrors: Failed to load /Game/TECH/Geometry/Meshes/TemplateFloor.TemplateFloor Referenced by Floor_1
+[2021.05.06-21.12.34:796][371]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/TemplateFloor': Can't find file.
+[2021.05.06-21.12.34:797][371]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.34:797][371]LoadErrors: Failed to load /Game/TECH/Geometry/Meshes/1M_Cube.1M_Cube Referenced by Wall10
+[2021.05.06-21.12.34:797][371]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.34:797][371]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.34:797][371]LoadErrors: Failed to load /Game/TECH/Geometry/Meshes/1M_Cube.1M_Cube Referenced by Wall11
+[2021.05.06-21.12.34:798][371]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.34:798][371]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.34:798][371]LoadErrors: Failed to load /Game/TECH/Geometry/Meshes/1M_Cube.1M_Cube Referenced by Wall7_4
+[2021.05.06-21.12.34:798][371]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.34:798][371]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.34:798][371]LoadErrors: Failed to load /Game/TECH/Geometry/Meshes/1M_Cube.1M_Cube Referenced by Wall9
+[2021.05.06-21.12.34:799][371]LogLinker: Warning: While loading '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/TECH/Geometry/Meshes/1M_Cube': Can't find file.
+[2021.05.06-21.12.34:840][371]LogObjectTools: Deleting 1 worlds: /Game/TECH/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.05.06-21.12.34:841][371]LogObjectTools: Currently 16 active worlds: /Game/DESIGN/MAPS/MainMenu/MainMenu.MainMenu, /Engine/Transient.World_0, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_14, /Engine/Transient.World_18
+[2021.05.06-21.12.34:858][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.05.06-21.12.36:245][371]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.06-21.12.36:263][371]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.06-21.12.36:263][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.06-21.12.36:352][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.05.06-21.12.36:370][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.05.06-21.12.36:400][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.05.06-21.12.36:418][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.05.06-21.12.40:869][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.05.06-21.12.44:030][888]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.06-21.12.44:154][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.05.06-21.12.44:170][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.05.06-21.12.44:187][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.05.06-21.12.44:205][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.05.06-21.12.44:221][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.05.06-21.12.44:241][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.05.06-21.12.44:266][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.05.06-21.12.44:285][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.05.06-21.13.11:921][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TECH/TestMaterials/TM_Red" FILE="../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/TestMaterials/TM_Red.uasset" SILENT=true
+[2021.05.06-21.13.11:930][182]LogSavePackage: Moving '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/TM_RedE98523D04218002057F021B6847DAA89.tmp' to '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/TestMaterials/TM_Red.uasset'
+[2021.05.06-21.13.11:932][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TECH/TestMaterials/TestMat4" FILE="../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/TestMaterials/TestMat4.uasset" SILENT=true
+[2021.05.06-21.13.11:938][182]LogSavePackage: Moving '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/TestMat4F537478B41F50CE0F7BE15A8C9CF0D8C.tmp' to '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/TestMaterials/TestMat4.uasset'
+[2021.05.06-21.13.12:026][182]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.06-21.13.12:026][182]LogContentValidation: Display: Validating Material /Game/TECH/TestMaterials/TM_Red.TM_Red
+[2021.05.06-21.13.12:026][182]LogContentValidation: Display: Validating ObjectRedirector /Game/TECH/TestMaterials/TestMat4.TestMat4
+[2021.05.06-21.13.15:590][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TECH/TestMaterials/TM_Yellow" FILE="../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/TestMaterials/TM_Yellow.uasset" SILENT=true
+[2021.05.06-21.13.15:597][449]LogSavePackage: Moving '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/TM_Yellow54F468C947FA87377D057E84402A6F4E.tmp' to '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/TestMaterials/TM_Yellow.uasset'
+[2021.05.06-21.13.15:599][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TECH/TestMaterials/TestMat5" FILE="../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/TestMaterials/TestMat5.uasset" SILENT=true
+[2021.05.06-21.13.15:606][449]LogSavePackage: Moving '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/TestMat54F3DBFD44BD4A23E09645685F7AB7164.tmp' to '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/TestMaterials/TestMat5.uasset'
+[2021.05.06-21.13.15:692][449]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.06-21.13.15:692][449]LogContentValidation: Display: Validating Material /Game/TECH/TestMaterials/TM_Yellow.TM_Yellow
+[2021.05.06-21.13.15:692][449]LogContentValidation: Display: Validating ObjectRedirector /Game/TECH/TestMaterials/TestMat5.TestMat5
+[2021.05.06-21.13.21:045][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TECH/TestMaterials/TM_Blue" FILE="../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/TestMaterials/TM_Blue.uasset" SILENT=true
+[2021.05.06-21.13.21:053][878]LogSavePackage: Moving '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/TM_Blue0C0B564B46312593F8531A9325148B42.tmp' to '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/TestMaterials/TM_Blue.uasset'
+[2021.05.06-21.13.21:055][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TECH/TestMaterials/TestMat1" FILE="../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/TestMaterials/TestMat1.uasset" SILENT=true
+[2021.05.06-21.13.21:063][878]LogSavePackage: Moving '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/TestMat1114148234FC3F9BA24C9DEB91AE09EAA.tmp' to '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/TestMaterials/TestMat1.uasset'
+[2021.05.06-21.13.21:151][878]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.06-21.13.21:151][878]LogContentValidation: Display: Validating Material /Game/TECH/TestMaterials/TM_Blue.TM_Blue
+[2021.05.06-21.13.21:151][878]LogContentValidation: Display: Validating ObjectRedirector /Game/TECH/TestMaterials/TestMat1.TestMat1
+[2021.05.06-21.13.22:837][  5]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TECH/TestMaterials/TM_Blue.TM_Blue
+[2021.05.06-21.13.22:840][  5]LogMaterial: Display: Missing cached shader map for material TM_Blue, compiling. 
+[2021.05.06-21.13.23:251][  5]LogMaterial: Display: Missing cached shader map for material TM_Blue, compiling. 
+[2021.05.06-21.13.23:264][  5]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2021.05.06-21.13.23:264][  5]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.05.06-21.13.23:264][  5]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.05.06-21.13.23:264][  5]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.05.06-21.13.23:264][  5]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.05.06-21.13.23:264][  5]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2021.05.06-21.13.23:264][  5]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.05.06-21.13.23:264][  5]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.05.06-21.13.23:264][  5]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.05.06-21.13.23:269][  5]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.05.06-21.13.23:457][  5]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.05.06-21.13.23:457][  5]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.05.06-21.13.23:457][  5]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2021.05.06-21.13.24:563][ 47]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.05.06-21.13.24:854][ 60]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.06-21.13.24:854][ 60]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.06-21.13.24:854][ 60]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.05.06-21.13.24:854][ 60]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.06-21.13.31:299][610]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.05.06-21.13.31:305][610]LogMaterial: Display: Missing cached shader map for material TM_Blue, compiling. 
+[2021.05.06-21.13.31:311][610]LogSlate: Window 'Color Picker' being destroyed
+[2021.05.06-21.13.31:314][610]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 13
+[2021.05.06-21.13.31:314][610]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 12
+[2021.05.06-21.13.31:314][610]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2021.05.06-21.13.31:314][610]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2021.05.06-21.13.31:314][610]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2021.05.06-21.13.31:314][610]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2021.05.06-21.13.31:314][610]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2021.05.06-21.13.31:314][610]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2021.05.06-21.13.31:314][610]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2021.05.06-21.13.31:314][610]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.05.06-21.13.31:314][610]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.05.06-21.13.31:314][610]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2021.05.06-21.13.31:314][610]LogSlate: Window 'TM_Blue' being destroyed
+[2021.05.06-21.13.32:027][645]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.05.06-21.13.32:430][681]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.06-21.13.32:430][681]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.06-21.13.32:430][681]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.05.06-21.13.32:430][681]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.06-21.13.33:866][809]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TECH/TestMaterials/TestMat2.TestMat2
+[2021.05.06-21.13.33:868][809]LogMaterial: Display: Missing cached shader map for material TestMat2, compiling. 
+[2021.05.06-21.13.33:927][809]LogMaterial: Display: Missing cached shader map for material TestMat2, compiling. 
+[2021.05.06-21.13.33:938][809]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.05.06-21.13.33:942][809]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 13
+[2021.05.06-21.13.33:942][809]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 12
+[2021.05.06-21.13.33:942][809]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2021.05.06-21.13.33:942][809]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2021.05.06-21.13.33:942][809]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2021.05.06-21.13.33:942][809]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2021.05.06-21.13.33:942][809]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2021.05.06-21.13.33:942][809]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2021.05.06-21.13.33:942][809]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2021.05.06-21.13.33:942][809]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.05.06-21.13.33:942][809]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.05.06-21.13.33:942][809]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2021.05.06-21.13.34:680][835]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2021.05.06-21.13.35:002][862]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.06-21.13.35:002][862]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.06-21.13.35:002][862]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.05.06-21.13.35:002][862]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.06-21.16.00:131][ 17]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.05.06-21.16.00:137][ 17]LogMaterial: Display: Missing cached shader map for material TestMat2, compiling. 
+[2021.05.06-21.16.00:143][ 17]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2021.05.06-21.16.00:143][ 17]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2021.05.06-21.16.00:143][ 17]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.05.06-21.16.00:143][ 17]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.05.06-21.16.00:169][ 20]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2021.05.06-21.16.00:169][ 20]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2021.05.06-21.16.00:169][ 20]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2021.05.06-21.16.00:169][ 20]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2021.05.06-21.16.00:169][ 20]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2021.05.06-21.16.00:169][ 20]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.05.06-21.16.00:169][ 20]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.05.06-21.16.00:169][ 20]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2021.05.06-21.16.01:039][ 73]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2021.05.06-21.16.01:474][113]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.06-21.16.01:474][113]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.06-21.16.01:474][113]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.05.06-21.16.01:474][113]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.06-21.16.03:473][352]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.05.06-21.16.03:478][352]LogMaterial: Display: Missing cached shader map for material TestMat2, compiling. 
+[2021.05.06-21.16.03:484][352]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2021.05.06-21.16.03:484][352]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2021.05.06-21.16.03:484][352]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.05.06-21.16.03:484][352]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.05.06-21.16.03:498][354]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2021.05.06-21.16.03:498][354]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2021.05.06-21.16.03:498][354]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2021.05.06-21.16.03:498][354]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2021.05.06-21.16.03:498][354]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2021.05.06-21.16.03:498][354]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.05.06-21.16.03:498][354]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.05.06-21.16.03:498][354]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2021.05.06-21.16.04:159][399]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2021.05.06-21.16.04:557][440]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.06-21.16.04:557][440]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.06-21.16.04:558][440]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.05.06-21.16.04:558][440]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.06-21.16.14:723][651]LogMaterial: Display: Missing cached shader map for material TestMat2, compiling. 
+[2021.05.06-21.16.14:735][651]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2021.05.06-21.16.14:735][651]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.05.06-21.16.14:736][651]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.05.06-21.16.14:736][651]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.05.06-21.16.14:736][651]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.05.06-21.16.14:736][651]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2021.05.06-21.16.14:736][651]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.05.06-21.16.14:736][651]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.05.06-21.16.14:736][651]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.05.06-21.16.14:737][651]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.05.06-21.16.14:752][651]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.05.06-21.16.14:759][651]LogMaterial: Display: Missing cached shader map for material TestMat2, compiling. 
+[2021.05.06-21.16.14:768][651]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.05.06-21.16.14:768][651]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.05.06-21.16.14:769][651]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2021.05.06-21.16.14:775][651]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.05.06-21.16.14:783][651]LogMaterial: Display: Missing cached shader map for material TestMat2, compiling. 
+[2021.05.06-21.16.14:800][651]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.05.06-21.16.14:808][651]LogMaterial: Display: Missing cached shader map for material TestMat2, compiling. 
+[2021.05.06-21.16.14:817][651]LogSlate: Window 'Color Picker' being destroyed
+[2021.05.06-21.16.15:456][691]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 13
+[2021.05.06-21.16.15:456][691]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2021.05.06-21.16.15:478][693]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 11
+[2021.05.06-21.16.15:500][695]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2021.05.06-21.16.15:573][702]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 9
+[2021.05.06-21.16.15:629][708]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2021.05.06-21.16.15:670][712]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2021.05.06-21.16.15:738][718]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2021.05.06-21.16.15:778][721]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2021.05.06-21.16.15:829][725]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2021.05.06-21.16.15:830][725]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2021.05.06-21.16.15:858][727]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2021.05.06-21.16.16:087][738]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2021.05.06-21.16.16:685][783]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.06-21.16.16:685][783]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.06-21.16.16:685][783]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.05.06-21.16.16:685][783]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.06-21.16.21:696][103]LogSlate: Window 'Message' being destroyed
+[2021.05.06-21.16.21:701][103]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/TECH/TestMaterials/TestMat2.TestMat2
+(Selecting 'No' will cause all changes to be lost!)
+[2021.05.06-21.16.22:380][103]LogMaterial: Display: Missing cached shader map for material TestMat2, compiling. 
+[2021.05.06-21.16.22:423][103]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2021.05.06-21.16.22:424][103]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.05.06-21.16.22:424][103]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.05.06-21.16.22:424][103]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.05.06-21.16.22:424][103]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.05.06-21.16.22:424][103]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2021.05.06-21.16.22:424][103]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.05.06-21.16.22:424][103]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.05.06-21.16.22:424][103]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.05.06-21.16.22:476][103]LogMaterial: Display: Missing cached shader map for material TestMat2, compiling. 
+[2021.05.06-21.16.22:499][103]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2021.05.06-21.16.22:499][103]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 13
+[2021.05.06-21.16.22:499][103]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2021.05.06-21.16.22:525][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.05.06-21.16.22:555][103]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.06-21.16.23:121][103]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 11
+[2021.05.06-21.16.23:121][103]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2021.05.06-21.16.23:121][103]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2021.05.06-21.16.23:431][103]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.05.06-21.16.23:431][103]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2021.05.06-21.16.23:431][103]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2021.05.06-21.16.23:431][103]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2021.05.06-21.16.23:431][103]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2021.05.06-21.16.23:431][103]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2021.05.06-21.16.23:431][103]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2021.05.06-21.16.23:431][103]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2021.05.06-21.16.23:438][103]TextureStreamingBuild: Display: Compiling optional shaders took 0.891 seconds.
+[2021.05.06-21.16.23:464][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.05.06-21.16.23:608][103]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.05.06-21.16.23:609][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.06-21.16.28:764][695]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.05.06-21.16.28:764][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.06-21.16.36:145][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TECH/TestMaterials/TM_Pink" FILE="../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/TestMaterials/TM_Pink.uasset" SILENT=true
+[2021.05.06-21.16.36:152][423]LogSavePackage: Moving '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/TM_PinkEC3004404E183BB5BD7BFC9FAB024B21.tmp' to '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/TestMaterials/TM_Pink.uasset'
+[2021.05.06-21.16.36:154][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TECH/TestMaterials/TestMat2" FILE="../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/TestMaterials/TestMat2.uasset" SILENT=true
+[2021.05.06-21.16.36:161][423]LogSavePackage: Moving '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/TestMat244964CBB4E6CF9D9C2A1C98019A9D83E.tmp' to '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/TestMaterials/TestMat2.uasset'
+[2021.05.06-21.16.36:246][423]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.06-21.16.36:246][423]LogContentValidation: Display: Validating Material /Game/TECH/TestMaterials/TM_Pink.TM_Pink
+[2021.05.06-21.16.36:246][423]LogContentValidation: Display: Validating ObjectRedirector /Game/TECH/TestMaterials/TestMat2.TestMat2
+[2021.05.06-21.16.37:956][579]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TECH/TestMaterials/TestMat3.TestMat3
+[2021.05.06-21.16.37:957][579]LogMaterial: Display: Missing cached shader map for material TestMat3, compiling. 
+[2021.05.06-21.16.38:099][579]LogMaterial: Display: Missing cached shader map for material TestMat3, compiling. 
+[2021.05.06-21.16.38:106][579]LogMaterial: Display: Missing cached shader map for material TestMat3, compiling. 
+[2021.05.06-21.16.38:120][579]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2021.05.06-21.16.38:120][579]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.05.06-21.16.38:120][579]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.05.06-21.16.38:120][579]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.05.06-21.16.38:120][579]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.05.06-21.16.38:120][579]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2021.05.06-21.16.38:120][579]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.05.06-21.16.38:120][579]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.05.06-21.16.38:120][579]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.05.06-21.16.38:124][579]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.05.06-21.16.38:180][579]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.05.06-21.16.38:180][579]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.05.06-21.16.38:180][579]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2021.05.06-21.16.38:854][594]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2021.05.06-21.16.39:149][609]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.06-21.16.39:149][609]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.06-21.16.39:149][609]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.05.06-21.16.39:149][609]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.06-21.16.41:786][843]LogSlate: Window 'TestMat3' being destroyed
+[2021.05.06-21.16.41:828][843]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.05.06-21.16.41:828][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.06-21.16.45:672][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TECH/TestMaterials/TM_Green" FILE="../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/TestMaterials/TM_Green.uasset" SILENT=true
+[2021.05.06-21.16.45:679][153]LogSavePackage: Moving '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/TM_Green6E367B6747A1EFA75D6B838CCC96C1FC.tmp' to '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/TestMaterials/TM_Green.uasset'
+[2021.05.06-21.16.45:681][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TECH/TestMaterials/TestMat3" FILE="../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/TestMaterials/TestMat3.uasset" SILENT=true
+[2021.05.06-21.16.45:688][153]LogSavePackage: Moving '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/TestMat3FFA9972C4ABB8FCD8E673285DE436463.tmp' to '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/TestMaterials/TestMat3.uasset'
+[2021.05.06-21.16.45:773][153]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.06-21.16.45:773][153]LogContentValidation: Display: Validating Material /Game/TECH/TestMaterials/TM_Green.TM_Green
+[2021.05.06-21.16.45:773][153]LogContentValidation: Display: Validating ObjectRedirector /Game/TECH/TestMaterials/TestMat3.TestMat3
+[2021.05.06-21.16.49:022][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.05.06-21.16.50:080][418]LogSlate: Window 'Save Content' being destroyed
+[2021.05.06-21.16.50:139][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.05.06-21.16.50:188][418]LogSavePackage: Moving '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/MainMenuF50832A2427D564F066826A4A13C3DB9.tmp' to '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/DESIGN/MAPS/MainMenu/MainMenu.umap'
+[2021.05.06-21.16.50:213][418]LogFileHelpers: Saving map 'MainMenu' took 0.096
+[2021.05.06-21.16.50:274][418]LogSavePackage: Moving '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/BaseBearFD79A4804272180545E907A615FCD889.tmp' to '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/BLUEPRINTS/Character/BaseBear.uasset'
+[2021.05.06-21.16.50:321][418]LogSavePackage: Moving '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/MeshChangerB1A7869740A7BC54A8E121876F162F0E.tmp' to '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/BLUEPRINTS/MainMenu/MeshChanger.uasset'
+[2021.05.06-21.16.50:383][418]LogSavePackage: Moving '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/TeamBase_BP3E2992F0489AFE81E20C899E9BB62F88.tmp' to '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/BLUEPRINTS/TeamBase/TeamBase_BP.uasset'
+[2021.05.06-21.16.50:422][418]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.06-21.16.50:422][418]LogContentValidation: Display: Validating World /Game/DESIGN/MAPS/MainMenu/MainMenu.MainMenu
+[2021.05.06-21.16.50:422][418]LogContentValidation: Display: Validating Blueprint /Game/TECH/BLUEPRINTS/Character/BaseBear.BaseBear
+[2021.05.06-21.16.50:422][418]LogContentValidation: Display: Validating Blueprint /Game/TECH/BLUEPRINTS/MainMenu/MeshChanger.MeshChanger
+[2021.05.06-21.16.50:422][418]LogContentValidation: Display: Validating Blueprint /Game/TECH/BLUEPRINTS/TeamBase/TeamBase_BP.TeamBase_BP
+[2021.05.06-21.16.55:223][803]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TECH/TestMaterials/TM_Yellow.TM_Yellow
+[2021.05.06-21.16.55:224][803]LogMaterial: Display: Missing cached shader map for material TM_Yellow, compiling. 
+[2021.05.06-21.16.55:364][803]LogMaterial: Display: Missing cached shader map for material TM_Yellow, compiling. 
+[2021.05.06-21.16.55:372][803]LogMaterial: Display: Missing cached shader map for material TM_Yellow, compiling. 
+[2021.05.06-21.16.55:382][803]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2021.05.06-21.16.55:383][803]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.05.06-21.16.55:383][803]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.05.06-21.16.55:383][803]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.05.06-21.16.55:383][803]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.05.06-21.16.55:383][803]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2021.05.06-21.16.55:383][803]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.05.06-21.16.55:383][803]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.05.06-21.16.55:383][803]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.05.06-21.16.55:385][803]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.05.06-21.16.55:442][803]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.05.06-21.16.55:442][803]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.05.06-21.16.55:442][803]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2021.05.06-21.16.56:133][815]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2021.05.06-21.16.56:398][826]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.06-21.16.56:398][826]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.06-21.16.56:398][826]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.05.06-21.16.56:398][826]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.06-21.17.02:668][401]LogMaterial: Display: Missing cached shader map for material TM_Yellow, compiling. 
+[2021.05.06-21.17.02:681][401]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.05.06-21.17.02:685][401]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 13
+[2021.05.06-21.17.02:685][401]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 12
+[2021.05.06-21.17.02:685][401]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2021.05.06-21.17.02:685][401]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2021.05.06-21.17.02:685][401]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2021.05.06-21.17.02:685][401]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2021.05.06-21.17.02:685][401]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2021.05.06-21.17.02:685][401]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2021.05.06-21.17.02:685][401]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2021.05.06-21.17.02:685][401]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.05.06-21.17.02:685][401]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.05.06-21.17.02:685][401]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2021.05.06-21.17.03:428][427]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2021.05.06-21.17.03:699][442]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.06-21.17.03:699][442]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.06-21.17.03:699][442]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.05.06-21.17.03:699][442]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.06-21.17.06:759][712]LogMaterial: Display: Missing cached shader map for material TM_Yellow, compiling. 
+[2021.05.06-21.17.06:773][712]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2021.05.06-21.17.06:773][712]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.05.06-21.17.06:773][712]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.05.06-21.17.06:773][712]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.05.06-21.17.06:773][712]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.05.06-21.17.06:773][712]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2021.05.06-21.17.06:773][712]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.05.06-21.17.06:773][712]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.05.06-21.17.06:773][712]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.05.06-21.17.06:773][712]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.05.06-21.17.06:779][712]LogSlate: Window 'Color Picker' being destroyed
+[2021.05.06-21.17.06:821][714]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.05.06-21.17.06:822][714]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.05.06-21.17.06:822][714]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2021.05.06-21.17.07:517][736]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2021.05.06-21.17.07:794][749]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.06-21.17.07:794][749]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.06-21.17.07:794][749]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.05.06-21.17.07:794][749]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.06-21.17.09:300][878]LogMaterialEditor: Applying material TM_Yellow
+[2021.05.06-21.17.09:812][878]LogMaterial: Display: Missing cached shader map for material TM_Yellow, compiling. 
+[2021.05.06-21.17.09:838][878]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2021.05.06-21.17.09:838][878]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.05.06-21.17.09:838][878]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.05.06-21.17.09:838][878]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.05.06-21.17.09:838][878]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.05.06-21.17.09:838][878]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2021.05.06-21.17.09:838][878]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.05.06-21.17.09:838][878]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.05.06-21.17.09:838][878]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.05.06-21.17.09:862][878]LogMaterial: Display: Missing cached shader map for material TM_Yellow, compiling. 
+[2021.05.06-21.17.09:885][878]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2021.05.06-21.17.09:886][878]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 13
+[2021.05.06-21.17.09:886][878]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2021.05.06-21.17.09:915][878]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.05.06-21.17.09:941][878]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.06-21.17.10:501][878]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2021.05.06-21.17.10:898][878]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 10
+[2021.05.06-21.17.10:898][878]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2021.05.06-21.17.10:898][878]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.05.06-21.17.10:898][878]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.05.06-21.17.10:898][878]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2021.05.06-21.17.10:898][878]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2021.05.06-21.17.10:898][878]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2021.05.06-21.17.10:898][878]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2021.05.06-21.17.10:898][878]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2021.05.06-21.17.10:898][878]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2021.05.06-21.17.10:904][878]TextureStreamingBuild: Display: Compiling optional shaders took 0.968 seconds.
+[2021.05.06-21.17.10:934][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2021.05.06-21.17.11:561][904]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.06-21.17.11:561][904]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.06-21.17.11:561][904]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.05.06-21.17.11:561][904]MaterialEditorStats: Texture samplers: 3/16
+[2021.05.06-21.17.11:582][906]LogMaterialEditor: Saving and Compiling material TM_Yellow
+[2021.05.06-21.17.11:612][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TECH/TestMaterials/TM_Yellow" FILE="../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/TestMaterials/TM_Yellow.uasset" SILENT=true
+[2021.05.06-21.17.11:624][906]LogSavePackage: Moving '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/TM_Yellow93B454AA4E269F9740596E87887C38F6.tmp' to '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/TestMaterials/TM_Yellow.uasset'
+[2021.05.06-21.17.11:636][906]AssetCheck: New page: Asset Save: TM_Yellow
+[2021.05.06-21.17.11:636][906]LogContentValidation: Display: Validating Material /Game/TECH/TestMaterials/TM_Yellow.TM_Yellow
+[2021.05.06-21.17.12:648][987]LogSlate: Window 'TM_Yellow' being destroyed
+[2021.05.06-21.17.12:720][987]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.05.06-21.17.12:720][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.06-21.17.13:819][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.05.06-21.17.16:438][295]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TECH/TestMaterials/TM_Green.TM_Green
+[2021.05.06-21.17.16:439][295]LogMaterial: Display: Missing cached shader map for material TM_Green, compiling. 
+[2021.05.06-21.17.16:582][295]LogMaterial: Display: Missing cached shader map for material TM_Green, compiling. 
+[2021.05.06-21.17.16:588][295]LogMaterial: Display: Missing cached shader map for material TM_Green, compiling. 
+[2021.05.06-21.17.16:600][295]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.05.06-21.17.16:606][295]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 13
+[2021.05.06-21.17.16:606][295]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 12
+[2021.05.06-21.17.16:606][295]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2021.05.06-21.17.16:606][295]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2021.05.06-21.17.16:606][295]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2021.05.06-21.17.16:606][295]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2021.05.06-21.17.16:606][295]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2021.05.06-21.17.16:606][295]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2021.05.06-21.17.16:606][295]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2021.05.06-21.17.16:606][295]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.05.06-21.17.16:606][295]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.05.06-21.17.16:606][295]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2021.05.06-21.17.17:341][308]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2021.05.06-21.17.17:615][320]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.06-21.17.17:615][320]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.06-21.17.17:615][320]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.05.06-21.17.17:615][320]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.06-21.17.20:529][578]LogMaterial: Display: Missing cached shader map for material TM_Green, compiling. 
+[2021.05.06-21.17.20:541][578]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2021.05.06-21.17.20:541][578]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.05.06-21.17.20:541][578]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.05.06-21.17.20:542][578]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.05.06-21.17.20:542][578]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.05.06-21.17.20:542][578]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2021.05.06-21.17.20:542][578]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.05.06-21.17.20:542][578]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.05.06-21.17.20:542][578]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.05.06-21.17.20:544][578]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.05.06-21.17.20:581][580]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.05.06-21.17.20:581][580]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.05.06-21.17.20:582][580]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2021.05.06-21.17.21:271][599]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2021.05.06-21.17.21:482][608]LogMaterial: Display: Missing cached shader map for material TM_Green, compiling. 
+[2021.05.06-21.17.21:490][608]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2021.05.06-21.17.21:490][608]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.05.06-21.17.21:490][608]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.05.06-21.17.21:490][608]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.05.06-21.17.21:490][608]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2021.05.06-21.17.21:490][608]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2021.05.06-21.17.21:490][608]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2021.05.06-21.17.21:490][608]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2021.05.06-21.17.21:490][608]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.05.06-21.17.21:498][608]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.05.06-21.17.21:563][611]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2021.05.06-21.17.21:563][611]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 3
+[2021.05.06-21.17.21:702][613]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2021.05.06-21.17.22:256][627]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2021.05.06-21.17.22:547][642]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.06-21.17.22:547][642]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.06-21.17.22:547][642]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.05.06-21.17.22:547][642]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.06-21.17.23:620][739]LogMaterial: Display: Missing cached shader map for material TM_Green, compiling. 
+[2021.05.06-21.17.23:630][739]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2021.05.06-21.17.23:630][739]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.05.06-21.17.23:631][739]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.05.06-21.17.23:631][739]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.05.06-21.17.23:631][739]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.05.06-21.17.23:631][739]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2021.05.06-21.17.23:631][739]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.05.06-21.17.23:631][739]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.05.06-21.17.23:631][739]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.05.06-21.17.23:632][739]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.05.06-21.17.23:637][739]LogSlate: Window 'Color Picker' being destroyed
+[2021.05.06-21.17.23:681][741]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.05.06-21.17.23:681][741]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.05.06-21.17.23:681][741]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2021.05.06-21.17.24:342][760]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2021.05.06-21.17.24:657][775]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.06-21.17.24:657][775]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.06-21.17.24:657][775]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.05.06-21.17.24:657][775]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.06-21.17.25:182][820]LogMaterialEditor: Applying material TM_Green
+[2021.05.06-21.17.25:692][820]LogMaterial: Display: Missing cached shader map for material TM_Green, compiling. 
+[2021.05.06-21.17.25:727][820]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2021.05.06-21.17.25:727][820]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.05.06-21.17.25:727][820]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.05.06-21.17.25:727][820]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.05.06-21.17.25:727][820]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.05.06-21.17.25:727][820]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2021.05.06-21.17.25:727][820]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.05.06-21.17.25:727][820]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.05.06-21.17.25:727][820]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.05.06-21.17.25:739][820]LogMaterial: Display: Missing cached shader map for material TM_Green, compiling. 
+[2021.05.06-21.17.25:759][820]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2021.05.06-21.17.25:760][820]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 13
+[2021.05.06-21.17.25:760][820]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2021.05.06-21.17.25:788][820]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.05.06-21.17.25:798][820]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.06-21.17.26:759][820]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2021.05.06-21.17.26:759][820]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 10
+[2021.05.06-21.17.26:759][820]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2021.05.06-21.17.26:759][820]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.05.06-21.17.26:759][820]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.05.06-21.17.26:759][820]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2021.05.06-21.17.26:759][820]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2021.05.06-21.17.26:759][820]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2021.05.06-21.17.26:759][820]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 3
+[2021.05.06-21.17.26:759][820]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2021.05.06-21.17.26:759][820]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2021.05.06-21.17.26:765][820]TextureStreamingBuild: Display: Compiling optional shaders took 0.972 seconds.
+[2021.05.06-21.17.26:792][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.05.06-21.17.27:448][848]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.06-21.17.27:449][848]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.06-21.17.27:449][848]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.05.06-21.17.27:449][848]MaterialEditorStats: Texture samplers: 3/16
+[2021.05.06-21.17.27:589][861]LogMaterialEditor: Saving and Compiling material TM_Green
+[2021.05.06-21.17.27:626][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TECH/TestMaterials/TM_Green" FILE="../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/TestMaterials/TM_Green.uasset" SILENT=true
+[2021.05.06-21.17.27:638][861]LogSavePackage: Moving '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/TM_Green699E6CB147C8592FEDA5DDB566F719ED.tmp' to '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/TestMaterials/TM_Green.uasset'
+[2021.05.06-21.17.27:651][861]AssetCheck: New page: Asset Save: TM_Green
+[2021.05.06-21.17.27:651][861]LogContentValidation: Display: Validating Material /Game/TECH/TestMaterials/TM_Green.TM_Green
+[2021.05.06-21.17.28:683][946]LogSlate: Window 'TM_Green' being destroyed
+[2021.05.06-21.17.28:770][946]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.05.06-21.17.28:770][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.06-21.17.31:253][154]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TECH/TestMaterials/TM_Blue.TM_Blue
+[2021.05.06-21.17.31:254][154]LogMaterial: Display: Missing cached shader map for material TM_Blue, compiling. 
+[2021.05.06-21.17.31:315][154]LogMaterial: Display: Missing cached shader map for material TM_Blue, compiling. 
+[2021.05.06-21.17.31:322][154]LogMaterial: Display: Missing cached shader map for material TM_Blue, compiling. 
+[2021.05.06-21.17.31:333][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.05.06-21.17.31:339][154]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2021.05.06-21.17.31:339][154]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.05.06-21.17.31:339][154]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.05.06-21.17.31:339][154]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.05.06-21.17.31:339][154]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.05.06-21.17.31:339][154]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2021.05.06-21.17.31:339][154]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.05.06-21.17.31:339][154]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.05.06-21.17.31:339][154]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.05.06-21.17.31:376][154]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.05.06-21.17.31:376][154]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.05.06-21.17.31:376][154]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2021.05.06-21.17.32:022][176]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2021.05.06-21.17.32:327][200]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.06-21.17.32:327][200]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.06-21.17.32:327][200]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.05.06-21.17.32:327][200]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.06-21.17.34:820][485]LogMaterial: Display: Missing cached shader map for material TM_Blue, compiling. 
+[2021.05.06-21.17.34:830][485]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.05.06-21.17.34:840][486]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 13
+[2021.05.06-21.17.34:846][486]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 12
+[2021.05.06-21.17.34:846][486]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2021.05.06-21.17.34:846][486]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2021.05.06-21.17.34:846][486]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2021.05.06-21.17.34:846][486]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2021.05.06-21.17.34:846][486]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2021.05.06-21.17.34:846][486]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2021.05.06-21.17.34:846][486]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2021.05.06-21.17.34:846][486]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.05.06-21.17.34:846][486]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.05.06-21.17.34:846][486]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2021.05.06-21.17.35:532][523]LogMaterial: Display: Missing cached shader map for material TM_Blue, compiling. 
+[2021.05.06-21.17.35:556][523]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.05.06-21.17.35:562][523]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2021.05.06-21.17.35:563][523]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2021.05.06-21.17.35:563][523]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 11
+[2021.05.06-21.17.35:580][524]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2021.05.06-21.17.35:659][530]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 9
+[2021.05.06-21.17.35:677][531]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2021.05.06-21.17.35:744][532]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2021.05.06-21.17.35:858][535]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2021.05.06-21.17.35:858][535]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2021.05.06-21.17.35:892][536]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2021.05.06-21.17.35:972][539]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2021.05.06-21.17.35:972][539]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2021.05.06-21.17.36:215][553]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2021.05.06-21.17.36:704][595]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.06-21.17.36:704][595]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.06-21.17.36:704][595]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.05.06-21.17.36:704][595]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.06-21.17.37:321][669]LogMaterial: Display: Missing cached shader map for material TM_Blue, compiling. 
+[2021.05.06-21.17.37:334][669]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.05.06-21.17.37:338][669]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2021.05.06-21.17.37:338][669]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.05.06-21.17.37:338][669]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.05.06-21.17.37:338][669]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.05.06-21.17.37:338][669]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.05.06-21.17.37:338][669]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2021.05.06-21.17.37:338][669]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.05.06-21.17.37:338][669]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.05.06-21.17.37:338][669]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.05.06-21.17.37:339][669]LogSlate: Window 'Color Picker' being destroyed
+[2021.05.06-21.17.37:377][673]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.05.06-21.17.37:377][673]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.05.06-21.17.37:377][673]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2021.05.06-21.17.38:122][713]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2021.05.06-21.17.38:368][740]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.06-21.17.38:368][740]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.06-21.17.38:368][740]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.05.06-21.17.38:368][740]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.06-21.17.38:794][790]LogMaterialEditor: Applying material TM_Blue
+[2021.05.06-21.17.39:300][790]LogMaterial: Display: Missing cached shader map for material TM_Blue, compiling. 
+[2021.05.06-21.17.39:326][790]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2021.05.06-21.17.39:326][790]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.05.06-21.17.39:326][790]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.05.06-21.17.39:326][790]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.05.06-21.17.39:326][790]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.05.06-21.17.39:326][790]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2021.05.06-21.17.39:326][790]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.05.06-21.17.39:326][790]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.05.06-21.17.39:326][790]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.05.06-21.17.39:351][790]LogMaterial: Display: Missing cached shader map for material TM_Blue, compiling. 
+[2021.05.06-21.17.39:370][790]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2021.05.06-21.17.39:371][790]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 13
+[2021.05.06-21.17.39:371][790]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2021.05.06-21.17.39:402][790]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.05.06-21.17.39:411][790]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.06-21.17.40:357][790]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 11
+[2021.05.06-21.17.40:357][790]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2021.05.06-21.17.40:357][790]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2021.05.06-21.17.40:357][790]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.05.06-21.17.40:357][790]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.05.06-21.17.40:357][790]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.05.06-21.17.40:357][790]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2021.05.06-21.17.40:357][790]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2021.05.06-21.17.40:357][790]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2021.05.06-21.17.40:357][790]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2021.05.06-21.17.40:357][790]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.05.06-21.17.40:363][790]TextureStreamingBuild: Display: Compiling optional shaders took 0.958 seconds.
+[2021.05.06-21.17.40:405][790]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2021.05.06-21.17.41:078][839]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.06-21.17.41:078][839]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.06-21.17.41:078][839]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.05.06-21.17.41:078][839]MaterialEditorStats: Texture samplers: 3/16
+[2021.05.06-21.17.47:273][880]LogMaterialEditor: Saving and Compiling material TM_Blue
+[2021.05.06-21.17.47:310][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TECH/TestMaterials/TM_Blue" FILE="../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/TestMaterials/TM_Blue.uasset" SILENT=true
+[2021.05.06-21.17.47:322][880]LogSavePackage: Moving '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/TM_BlueAE4A68C34CA36F8C6C77648D59380F86.tmp' to '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/TestMaterials/TM_Blue.uasset'
+[2021.05.06-21.17.47:335][880]AssetCheck: New page: Asset Save: TM_Blue
+[2021.05.06-21.17.47:335][880]LogContentValidation: Display: Validating Material /Game/TECH/TestMaterials/TM_Blue.TM_Blue
+[2021.05.06-21.17.48:664][ 25]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.05.06-21.17.48:664][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.06-21.17.50:786][206]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TECH/TestMaterials/TM_Pink.TM_Pink
+[2021.05.06-21.17.50:787][206]LogMaterial: Display: Missing cached shader map for material TM_Pink, compiling. 
+[2021.05.06-21.17.50:929][206]LogMaterial: Display: Missing cached shader map for material TM_Pink, compiling. 
+[2021.05.06-21.17.50:936][206]LogMaterial: Display: Missing cached shader map for material TM_Pink, compiling. 
+[2021.05.06-21.17.50:950][206]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.05.06-21.17.50:956][206]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2021.05.06-21.17.50:956][206]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.05.06-21.17.50:956][206]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.05.06-21.17.50:956][206]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.05.06-21.17.50:956][206]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.05.06-21.17.50:956][206]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2021.05.06-21.17.50:956][206]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.05.06-21.17.50:956][206]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.05.06-21.17.50:956][206]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.05.06-21.17.51:006][206]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.05.06-21.17.51:006][206]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.05.06-21.17.51:006][206]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2021.05.06-21.17.51:679][216]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2021.05.06-21.17.51:972][230]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.06-21.17.51:972][230]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.06-21.17.51:972][230]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.05.06-21.17.51:972][230]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.06-21.17.55:022][498]LogMaterial: Display: Missing cached shader map for material TM_Pink, compiling. 
+[2021.05.06-21.17.55:033][498]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.05.06-21.17.55:050][499]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 13
+[2021.05.06-21.17.55:050][499]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 12
+[2021.05.06-21.17.55:050][499]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2021.05.06-21.17.55:050][499]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2021.05.06-21.17.55:051][499]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2021.05.06-21.17.55:051][499]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2021.05.06-21.17.55:051][499]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2021.05.06-21.17.55:051][499]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2021.05.06-21.17.55:051][499]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2021.05.06-21.17.55:051][499]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.05.06-21.17.55:051][499]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.05.06-21.17.55:051][499]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2021.05.06-21.17.55:781][521]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2021.05.06-21.17.55:881][525]LogMaterial: Display: Missing cached shader map for material TM_Pink, compiling. 
+[2021.05.06-21.17.55:892][525]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.05.06-21.17.55:892][525]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2021.05.06-21.17.55:892][525]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2021.05.06-21.17.55:892][525]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2021.05.06-21.17.55:892][525]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 5
+[2021.05.06-21.17.55:894][525]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.05.06-21.17.55:928][526]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.05.06-21.17.56:053][530]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.05.06-21.17.56:053][530]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.05.06-21.17.56:097][531]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2021.05.06-21.17.56:125][532]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2021.05.06-21.17.56:160][533]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 3
+[2021.05.06-21.17.56:437][539]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.05.06-21.17.56:603][544]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2021.05.06-21.17.57:062][563]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.06-21.17.57:062][563]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.06-21.17.57:062][563]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.05.06-21.17.57:062][563]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.06-21.17.58:554][693]LogMaterial: Display: Missing cached shader map for material TM_Pink, compiling. 
+[2021.05.06-21.17.58:565][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.05.06-21.17.58:583][694]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 13
+[2021.05.06-21.17.58:583][694]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 12
+[2021.05.06-21.17.58:583][694]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2021.05.06-21.17.58:584][694]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2021.05.06-21.17.58:584][694]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2021.05.06-21.17.58:584][694]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2021.05.06-21.17.58:584][694]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2021.05.06-21.17.58:584][694]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2021.05.06-21.17.58:584][694]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2021.05.06-21.17.58:584][694]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.05.06-21.17.58:584][694]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.05.06-21.17.58:584][694]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2021.05.06-21.17.59:285][717]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2021.05.06-21.17.59:583][731]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.06-21.17.59:583][731]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.06-21.17.59:583][731]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.05.06-21.17.59:583][731]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.06-21.18.01:237][866]LogMaterial: Display: Missing cached shader map for material TM_Pink, compiling. 
+[2021.05.06-21.18.01:245][866]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2021.05.06-21.18.01:246][866]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.05.06-21.18.01:246][866]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.05.06-21.18.01:246][866]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.05.06-21.18.01:246][866]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.05.06-21.18.01:246][866]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2021.05.06-21.18.01:246][866]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.05.06-21.18.01:246][866]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.05.06-21.18.01:246][866]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.05.06-21.18.01:247][866]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.05.06-21.18.01:254][866]LogSlate: Window 'Color Picker' being destroyed
+[2021.05.06-21.18.01:281][867]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.05.06-21.18.01:281][867]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.05.06-21.18.01:281][867]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2021.05.06-21.18.02:003][890]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2021.05.06-21.18.02:338][904]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.06-21.18.02:338][904]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.06-21.18.02:338][904]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.05.06-21.18.02:338][904]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.06-21.18.02:796][943]LogMaterialEditor: Applying material TM_Pink
+[2021.05.06-21.18.03:302][943]LogMaterial: Display: Missing cached shader map for material TM_Pink, compiling. 
+[2021.05.06-21.18.03:343][943]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2021.05.06-21.18.03:344][943]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.05.06-21.18.03:344][943]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.05.06-21.18.03:344][943]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.05.06-21.18.03:344][943]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.05.06-21.18.03:344][943]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2021.05.06-21.18.03:344][943]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.05.06-21.18.03:344][943]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.05.06-21.18.03:344][943]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.05.06-21.18.03:358][943]LogMaterial: Display: Missing cached shader map for material TM_Pink, compiling. 
+[2021.05.06-21.18.03:382][943]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2021.05.06-21.18.03:382][943]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 13
+[2021.05.06-21.18.03:382][943]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2021.05.06-21.18.03:408][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.05.06-21.18.03:418][943]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.06-21.18.04:373][943]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2021.05.06-21.18.04:373][943]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 10
+[2021.05.06-21.18.04:373][943]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2021.05.06-21.18.04:373][943]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.05.06-21.18.04:373][943]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.05.06-21.18.04:373][943]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2021.05.06-21.18.04:373][943]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2021.05.06-21.18.04:373][943]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 4
+[2021.05.06-21.18.04:373][943]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2021.05.06-21.18.04:373][943]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2021.05.06-21.18.04:373][943]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2021.05.06-21.18.04:385][943]TextureStreamingBuild: Display: Compiling optional shaders took 0.971 seconds.
+[2021.05.06-21.18.04:412][943]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.05.06-21.18.04:854][956]LogMaterialEditor: Saving and Compiling material TM_Pink
+[2021.05.06-21.18.05:035][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TECH/TestMaterials/TM_Pink" FILE="../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/TestMaterials/TM_Pink.uasset" SILENT=true
+[2021.05.06-21.18.05:047][956]LogSavePackage: Moving '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/TM_Pink3D6C63C84CB83A63AC2552B63BB661A7.tmp' to '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/TECH/TestMaterials/TM_Pink.uasset'
+[2021.05.06-21.18.05:061][956]AssetCheck: New page: Asset Save: TM_Pink
+[2021.05.06-21.18.05:061][956]LogContentValidation: Display: Validating Material /Game/TECH/TestMaterials/TM_Pink.TM_Pink
+[2021.05.06-21.18.05:066][956]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.06-21.18.05:067][956]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.06-21.18.05:067][956]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.05.06-21.18.05:067][956]MaterialEditorStats: Texture samplers: 3/16
+[2021.05.06-21.18.06:099][ 39]LogSlate: Window 'TM_Pink' being destroyed
+[2021.05.06-21.18.06:133][ 39]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.05.06-21.18.06:133][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.06-21.18.11:969][620]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.05.06-21.18.16:272][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.05.06-21.18.16:312][975]LogSavePackage: Moving '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Saved/Level_29CE0BD7245074EBDD8E5AF801F95A68E.tmp' to '../../../../../../Users/Miffl/OneDrive/Desktop/ToyWars/Group29ToyWars 4.25/Content/DESIGN/MAPS/Levels/Level_2.umap'
+[2021.05.06-21.18.16:339][975]LogFileHelpers: Saving map 'Level_2' took 0.131
+[2021.05.06-21.18.16:370][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.05.06-21.18.16:623][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.05.06-21.18.16:640][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.05.06-21.18.16:656][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.05.06-21.18.16:673][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.05.06-21.18.16:691][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.05.06-21.18.16:717][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.05.06-21.18.16:737][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.05.06-21.18.16:745][975]AssetCheck: New page: Asset Save: Level_2
+[2021.05.06-21.18.16:745][975]LogContentValidation: Display: Validating World /Game/DESIGN/MAPS/Levels/Level_2.Level_2
+[2021.05.06-21.18.17:384][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
